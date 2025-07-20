@@ -1,0 +1,112 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="93a9bc13-0142-41ca-a47e-f4d0e918e09d" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modeltest.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/demo02.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/testpapers/AI大模型驱动下“创业基础”课程教学的优化与实践_甘丽.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/testpapers/人工智能关键技术在化学物质毒性预测中的应用研究进展_李思敏.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/testpapers/人工智能驱动公共服务高质量发展_理论逻辑、实践模式和发展路径_米加宁.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/testpapers/人工智能驱动经济增长质量提升的机制与挑战_宋文月.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/testpapers/基于AIGC的高校课程思政教学改革实践路径研究_祝丽云.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/testpapers/基于对话教学理论的ChatGPT智能互动模式在康复护理教学中的应用_陈鹏鑫.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/testpapers/解构产教融合育人中企业深度参与的制约因素——基于AI大语言模型的混合研究_鲍威.pdf" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 4
+}</component>
+  <component name="ProjectId" id="301hRycbdmJqyyhuo0tBQUaeRsY" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;ModuleVcsDetector.initialDetectionPerformed&quot;: &quot;true&quot;,
+    &quot;Python.demo01.executor&quot;: &quot;Debug&quot;,
+    &quot;Python.demo02.executor&quot;: &quot;Debug&quot;,
+    &quot;Python.test.executor&quot;: &quot;Debug&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/iiijj/Desktop/modeltest(1)/modeltest&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  }
+}</component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\iiijj\Desktop\modeltest(1)\modeltest" />
+      <recent name="C:\Users\iiijj\Desktop\modeltest(1)\modeltest\testpapers" />
+      <recent name="C:\Users\iiijj\PycharmProjects\modeltest" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\iiijj\Desktop\modeltest(1)\modeltest\.venv" />
+      <recent name="C:\Users\iiijj\Desktop\modeltest(1)\modeltest" />
+      <recent name="C:\Users\iiijj\Desktop\modeltest(1)\modeltest\testpapers" />
+    </key>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-js-predefined-d6986cc7102b-b26f3e71634d-JavaScript-PY-251.26094.141" />
+        <option value="bundled-python-sdk-9f8e2b94138c-36ea0e71a18c-com.jetbrains.pycharm.pro.sharedIndexes.bundled-PY-251.26094.141" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="93a9bc13-0142-41ca-a47e-f4d0e918e09d" name="Changes" comment="" />
+      <created>1752800981950</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1752800981950</updated>
+      <workItem from="1752800983009" duration="3606000" />
+      <workItem from="1752804629790" duration="3249000" />
+      <workItem from="1753029689159" duration="1018000" />
+      <workItem from="1753030885175" duration="165000" />
+      <workItem from="1753031059141" duration="7000" />
+      <workItem from="1753031076543" duration="5000" />
+      <workItem from="1753031336494" duration="6337000" />
+      <workItem from="1753037739519" duration="6000" />
+      <workItem from="1753038096062" duration="384000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/demo02_py$demo02.coverage" NAME="demo02 Coverage Results" MODIFIED="1753037257545" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/modeltest$demo01.coverage" NAME="demo01 Coverage Results" MODIFIED="1752802412900" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/demo02_py$test.coverage" NAME="test Coverage Results" MODIFIED="1753032837063" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/modeltest$demo02.coverage" NAME="demo02 Coverage Results" MODIFIED="1753030933433" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+  </component>
+</project>
